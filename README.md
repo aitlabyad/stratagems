@@ -12,13 +12,13 @@
 
 # Starting the Backend Server
 From the commandline, change the current working directory to the folder server.
- Run:
+ + Run:
   - npm install
   - npm start
 
 # Starting the Frontend Server
 From the commandline, change the current working directory to the folder client.
- Run:
+ + Run:
   - npm install
   - npm run dev
 
