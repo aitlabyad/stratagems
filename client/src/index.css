@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+input[type=checkbox] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+  
+    background-clip: content-box;
+    border: 1.5px solid #bbbbbb;
+    border-radius: 4px;
+    background-color: #e7e6e7;
+   
+    margin-right: 16px;
+
+    &:checked{
+        background-color: #0E7490;
+        border: 1.5px solid #0E7490;
+    }
+
+    &:focus{
+        outline: none !important;
+    }
+}
+
+
