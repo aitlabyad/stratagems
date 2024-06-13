@@ -2,8 +2,8 @@
  Full-Stack Developer Assessment
 
 + Frontend: React v-18.2.0
-State Management:  Redux
-Design and Styling:  Tailwind CSS
+  - State Management:  Redux
+  - Design and Styling:  Tailwind CSS
 
 + Backend: Node.js v-6.0.0 with Express framework v-4.19.2
    - Database: MongoDB
