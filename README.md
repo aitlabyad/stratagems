@@ -20,7 +20,7 @@ From the commandline, change the current working directory to the folder server.
 From the commandline, change the current working directory to the folder client.
  + Run:
     - npm install
-    - npm run dev
+    - npm run dev 
 
 # link 
   - http://localhost:5173/
