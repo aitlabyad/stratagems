@@ -16,7 +16,7 @@ From the commandline, change the current working directory to the folder server.
     - npm install
     - npm start
 
-# Starting the Frontend Server
+# Starting the Frontend client
 From the commandline, change the current working directory to the folder client.
  + Run:
     - npm install
